@@ -10,7 +10,8 @@
 - body : [] -  list of  titles search q under. If empty searches all titles 
 
 ## Details
-#### Development/Local: 
+#### Port used for local: 3001  
+#### Run on Development/Local: 
 ```
 go run main.go
 ```
